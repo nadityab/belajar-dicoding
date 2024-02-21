@@ -7,3 +7,4 @@ Belajar kelas Dasar Git dengan GitHub. (Progres 41%)
 * Belajar git menggunakan GitHub.
 * Belajar commit di GitHub.
 * Belajar commit changes di GitHub.
+* Belajar Merge Branch
